@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+        "name": "لوحة التحكم",
+        "icon": " bx bxs-home",
+        "url": "/admin/home"
+      },{
+        "name": "الحجوزات",
+        "icon": "bxs-calendar",
+        "url": "/admin/booking"
+      },{
+        "name": "الاجتماعات",
+        "icon": "bxs-video",
+        "url": "/admin/meeting"
+      },{
+        "name": "تواصل معنا",
+        "icon": "bxs-calendar",
+        "url": "/admin/contact"
+      },{
+        "name": "المرضى",
+        "icon": "bxs-id-card",
+        "url": "/admin/customer"
+      },{
+        "name": "الطلبات",
+        "icon": "bxs-notepad",
+        "url": "/admin/order"
+      },{
+        "name": "كورسات",
+        "icon": "bxs-carousel",
+        "url": "/admin/courses"
+      },{
+        "name": "المنتجات",
+        "icon": "bxs-book",
+        "url": "/admin/product"
+      },{
+        "name": "تقييمات المنتجات",
+        "icon": "bxs-star",
+        "url": "/admin/review"
+      },{
+        "name": "تقييمات المنتجات",
+        "icon": "bxs-star",
+        "url": "/admin/courses_review"
+      },{
+        "name": "الاعدادات",
+        "icon": "bxs-calendar",
+        "url": "/admin/slider"
+      },{
+        "name": "Service",
+        "icon": "bx-plus-medical",
+        "url": "/admin/service"
+      },{
+        "name": "FAQ",
+        "icon": "bxs-add-to-queue",
+        "url": "/admin/faq"
+      },{
+        "name": "Account",
+        "icon": "bx-user",
+        "url": "/admin/user"
+      },{
+        "name": "Zoom",
+        "icon": "bx-user",
+        "url": "/admin/meeting/edit"
+      }
+
+  ]
+}

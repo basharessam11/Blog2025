@@ -1,0 +1,28 @@
+{
+    "data": [
+       {
+        "id": 100,
+        "product_name": "Ulpha",
+        "category": 0,
+        "stock": 0,
+        "sku": 13501,
+        "price": "$538.96",
+        "qty": 822,
+        "status": 1,
+        "image": "product-10.png",
+        "product_brand": "Rosenbaum Group"
+      },{
+        "id": 100,
+        "product_name": "Ulpha",
+        "category": 0,
+        "stock": 0,
+        "sku": 13501,
+        "price": "$538.96",
+        "qty": 822,
+        "status": 2,
+        "image": "product-10.png",
+        "product_brand": "Rosenbaum Group"
+      }
+    ]
+  }
+  
