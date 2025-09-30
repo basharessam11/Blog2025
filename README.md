@@ -1,206 +1,100 @@
-# مزايا لوحة التحكم
+# مشروع المدونة ولوحة التحكم
 
+هذا المشروع عبارة عن **مدونة متكاملة مع لوحة تحكم**.  
+تتيح لوحة التحكم إدارة المقالات والمستخدمين والأدوار بسهولة، بالإضافة إلى ميزة **جلب المقالات تلقائيًا من مواقع أخرى** لعرضها في الموقع دون الحاجة لإدخالها يدويًا.  
+المشروع يدعم **RTL** ويوفر واجهة منظمة وسهلة الاستخدام.
 
-- ✅ مهيئة للسيو بشكل تلقائي وذكي
-- ✅ جاهزة لعرض اشعارات مع صور
-- ✅ عرض التنبيهات بشكل لطيف
-- ✅ عرض الأخطاء بشكل لحظي وتلقائي
-- ✅ طريقة لعرض الصور باحترافية
-- ✅ تدعم السحب والافلات
-- ✅ الاشعارات في الوقت الفعلي
-- ✅ أيقونات مدفوعة بشكل مجاني
-- ✅ أفضل وأجمل الخطوط العربية
-- ✅ اعدادات Robots جاهزة
-- ✅ منشئ SiteMap تلقائي
-- ✅ جاهزة للتحويل إلى تطبيق هاتف
-- ✅ جميع الصفحات الأساسية وأكثر
-- ✅ احصائيات رائعة في لوحة التحكم
-- ✅ امكانية انشاء قوائم وتحديد أماكنها
-- ✅ امكانية ترتيب الروابط داخل القوائم
-- ✅ امكانية انشاء صفحات مخصصة
-- ✅ نظام اعلانات جاهز
-- ✅ مدونة متكاملة أقسام،مقالات ..
-- ✅ نظام تحويل الروابط
-- ✅ عربية بالكامل !
-- ✅ محرر جميل مع امكانية رفع صور
-- ✅ نظام مستخدمين ولهم صور
-- ✅ متجاوبة بالكامل
-- ✅ تستخدم آخر اصدار Laravel
-- ✅ تستخدم آخر اصدار Bootstrap
-- ✅ الاشعارات في الوقت الفعلي
-- ✅ راصد الأخطاء الذكي
-- ✅ نظام تتبع شامل
-- ✅ اضافة حدود الزيارات لزيادة الحماية
-- ✅ صفحات 404 مخصصة
-- ✅ صفحات الدخول والتسجيل وغيرها
-- ✅ نظام اعدادات الموقع
-- ✅ جاهزة للدمج مع كلاود فلاير
-- ✅ نظام متابعة ذكي
-- ✅ نظام صلاحيات متقدم
-- ✅ مرفق نماذج لصناعة الصفحات
-- ✅ نظام التذاكر للتواصل معنا
-- ✅ نظام Plugins جاهز لاضافة المزيد
-- ✅ المزيد 
+---
 
+## ميزات المشروع
 
-### Screenshots
+- إدارة المقالات وإضافة مقالات جديدة وتعديلها وحذفها.
+- جلب المقالات تلقائيًا من مواقع أخرى وعرضها على المدونة.
+- إدارة المستخدمين وأدوارهم وصلاحياتهم داخل لوحة التحكم.
+- متابعة الزيارات والرسائل الواردة من المستخدمين.
+- واجهة لوحة تحكم حديثة ومنظمة مع قائمة جانبية قابلة للتوسع.
 
+---
 
-![screenshots/25.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/25.jpg)
-![screenshots/18.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/18.jpg)
-![screenshots/19.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/19.jpg)
-![screenshots/20.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/20.jpg)
-![screenshots/24.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/24.jpg)
-![screenshots/6.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/6.jpg)
-![screenshots/7.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/7.jpg)
-![screenshots/8.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/8.jpg)
-![screenshots/9.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/9.jpg)
-![screenshots/10.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/10.jpg)
-![screenshots/11.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/11.jpg)
-![screenshots/12.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/12.jpg)
-![screenshots/13.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/13.jpg)
-![screenshots/14.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/14.jpg)
-![screenshots/15.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/15.jpg)
-![screenshots/16.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/16.jpg)
-![screenshots/17.jpg](https://raw.githubusercontent.com/peter-tharwat/dashboard/master/public/images/screenshots/17.jpg)
+## قائمة لوحة التحكم الجانبية
 
+### 1. تسجيل الدخول
 
+- **نبذة:** صفحة تسجيل الدخول للوصول إلى لوحة التحكم، مع التحقق من بيانات المستخدم لضمان الأمان.  
+- **صورة توضيحية:**  
+    ![تسجيل الدخول](screenshots/1.png)
 
-<!-- - ✅ Auto & Smart Seo
-- ✅ Optimized Notifications With Images
-- ✅ Smart Alerts
-- ✅ Auto Js Validations
-- ✅ Front End Alert
-- ✅ Nice Image Viewing FancyBox
-- ✅ Drag And drop Feature
-- ✅ Fully Arabic 😀
-- ✅ Smart Editor With Upload Images
-- ✅ Select from Already uploaded Files
-- ✅ Fully Profile System With Avatars ( Can Resize Avatar )
-- ✅ Fully Responsive
-- ✅ Intervally Getting Notifcations Out Of The Box
-- ✅ FontAwesome PRO 💥 + ResponsiveFonts + Noto Sans Arabic fonts Included
-- ✅ Robots.txt , SiteMapGenerator , manifest.json
-- ✅ General Statistics On Home Page ( Traffic , New Users , Top Pages , Top Browsers , Top Devices , Top OSs , Top Ips , Top Users , and so on ... )
-- ✅ basic pages ( contact , articles , privacy , terms , about , categories , redirections )
-- ✅ You can Create Menus With Links ( can change order by Drag And drop )
-- ✅ Ability to Create custom pages
-- ✅ Smart Error Listeners
-- ✅ Smart Traffic tracker
-- ✅ RateLimit Plugin
-- ✅ Custom 404 Page
-- ✅ Nice Login , Register and Confirm Email Pages
-- ✅ Most Common Settings
-- ✅ Ready to integrate CloudFlare Firewall
-- ✅ Smart Logging System -->
-    
- 
+---
 
-### How to setup
+### 2. اتصل بنا
 
-```bash
-#dont forget to install 
-sudo apt-get install php-imagick
-composer install
-# copy .env.example to .env
-cp .env.example .env
-# generate security key , link storage file
-php artisan key:generate
-php artisan storage:link
-# after connect your database via .env file
-php artisan migrate:fresh
-php artisan db:seed
+- **نبذة:** مراجعة رسائل التواصل الواردة من المستخدمين والزوار والرد عليها عند الحاجة.  
+- **صورة توضيحية:**  
+    ![اتصل بنا](screenshots/2.png)
 
-# dont forget to start queuing and run schedule on the background 
-php artisan queue:work && php artisan schedule:run 
-```
+---
 
-### Credentials
+### 3. الزيارات
 
-```
-login page : <http://127.0.0.1:8000/login>
-email : admin@admin.com
-password : password
+- **نبذة:** عرض جميع الزيارات للموقع وتتبع نشاط المستخدمين أو مواعيد الزيارات الميدانية.  
+- **صورة توضيحية:**  
+    ![الزيارات](screenshots/3.png)
 
-```
+---
 
-### Main Yield Sections
+### 4. المستخدمين
 
-```jsx
-@yield('styles')
-@yield('content')
-@yield('after-body')
-@yield('scripts')
-```
+- **نبذة:** إدارة حسابات المستخدمين، إضافة مستخدمين جدد، تعديل بياناتهم أو حذفهم.  
+- **صورة توضيحية:**  
+    ![المستخدمين](screenshots/4.png)
 
-### Notifications On Response
+#### 5 الأدوار
 
-```jsx
-// docs : https://github.com/mckenziearts/laravel-notify
+- **نبذة:** إدارة أدوار المستخدمين وصلاحياتهم لضمان الأمن والتنظيم داخل لوحة التحكم.  
+- **صورة توضيحية:**  
+    ![المستخدم](screenshots/5.png)
 
-notify()->info('content','title');
+---
 
-notify()->success('content','title');
+### 6 مقالات
 
-notify()->error('content','title');
-```
+- **نبذة:** إدارة المقالات، إضافة مقالات جديدة، تعديل المقالات القديمة أو حذفها.  
+- **صورة توضيحية:**  
+    ![مقالات](screenshots/6.png)
 
-### Notifications On Frontend
+---
 
-```jsx
-// docs : https://github.com/CodeSeven/toastr
-*****
-You have To put alert in scripts section
-// @yield('scripts')
-*****
-// Display a warning toast, with no title
-toastr.warning('My name is Inigo Montoya. You killed my father, prepare to die!')
+### 6. مقالات
 
-// Display a success toast, with a title
-toastr.success('Have fun storming the castle!', 'Miracle Max Says')
+- **نبذة:** إدارة المقالات، إضافة مقالات جديدة، تعديل المقالات القديمة أو حذفها.  
+- **صورة توضيحية:**  
+    ![مقالات](screenshots/7.png)
 
-// Display an error toast, with a title
-toastr.error('I do not think that word means what you think it means.', 'Inconceivable!')
+#### 6.1 مقالات
 
-// Immediately remove current toasts without using animation
-toastr.remove()
+- **نبذة:** قائمة المقالات المنشورة ويمكن تعديلها أو حذفها بسهولة.  
+- **صورة توضيحية:**  
+    ![مقالات فرعية](screenshots/8.png)
 
-// Remove current toasts using animation
-toastr.clear()
+#### 6.1 مقالات
 
-// Override global options
-toastr.success('We do have the Kapua suite available.', 'Turtle Bay Resort', {timeOut: 5000})
-```
+- **نبذة:** قائمة المقالات المنشورة ويمكن تعديلها أو حذفها بسهولة.  
+- **صورة توضيحية:**  
+    ![مقالات فرعية](screenshots/9.png)
 
-### Notification to [ 'dashboard' , 'email' ]
+---
 
-```jsx
-(new \MainHelper)->notify_user([
-      'user_id'=>2,
-      'message'=>"محتوى الإشعار" ,
-      'url'=>"http://example.com",
-			'methods'=>['database','mail']
-]);
-```
+## كيفية الاستخدام
 
-### Editor with and without file-explorer
+1. تسجيل الدخول إلى لوحة التحكم.
+2. إدارة المقالات، المستخدمين، والأدوار من القائمة الجانبية.
+3. جلب المقالات تلقائيًا من المواقع المحددة لتظهر مباشرة على المدونة.
+4. متابعة الرسائل والزيارات اليومية لمراقبة نشاط المستخدمين.
 
-```jsx
-<textarea type="text" name="description" required minlength="3" maxlength="10000" class="form-control editor with-file-explorer" ></textarea>
-<textarea type="text" name="description" required minlength="3" maxlength="10000" class="form-control editor"  ></textarea>
-```
+---
 
-### Fancybox
+## ملاحظات
 
-```jsx
-/* Just Add this Tag To image */
-<img src="" data-fancybox />
-
-/* Every image inside this class "data-fancybox" will be converted to fancy */
-<div class="fancybox">
-		<img src="" />
-</div>
-```
-
-### License
-The Laravel framework is open-sourced software licensed under the MIT license.
+- جميع الصور في README يمكن استبدالها بالمسار الفعلي للصور في المشروع.
+- المشروع يدعم **Right-to-Left (RTL)** للغات العربية.
+- يُنصح بتحديث قائمة المواقع لجلب المقالات بشكل دوري لضمان عرض محتوى حديث.
